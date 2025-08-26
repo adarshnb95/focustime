@@ -1,0 +1,6 @@
+PySide6
+sqlmodel
+python-dateutil
+APScheduler
+win10toast_click
+pydantic-settings
