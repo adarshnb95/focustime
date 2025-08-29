@@ -4,3 +4,4 @@ python-dateutil
 APScheduler
 win10toast_click
 pydantic-settings
+pywin32
